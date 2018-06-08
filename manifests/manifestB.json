@@ -36,12 +36,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8143 copy cropped.jpeg/full/full/0/default.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8143-annotation",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/IMG_8143 copy cropped.jpeg",
+									"@id": "http://iiif.archivelab.org/iiif/IMG8143CopyCropped",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -176,12 +176,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8136 copy cropped.jpeg/full/full/0/default.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8136-copy-cropped-annotation.jpeg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://iiif.archivelab.org/iiif/NootkaRose3D/",
+									"@id": "http://iiif.archivelab.org/iiif/IMG8136CopyCropped_201806/",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -377,12 +377,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8148 copy cropped.jpeg/full/full/0/default.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8148-annotation",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/IMG_8148 copy cropped.jpeg",
+									"@id": "http://iiif.archivelab.org/iiif/IMG8148CopyCropped",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -712,12 +712,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8142%20copy%20cropped.jpeg/full/full/0/default.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8142-annotation",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/IMG_8142%20copy%20cropped.jpeg",
+									"@id": "http://iiif.archivelab.org/iiif/IMG8142CopyCropped",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -779,12 +779,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8141 copy cropped.jpeg/full/full/0/default.jpg",
+								"@id": "http://127.0.0.1:8182/iiif/2/IMG_8141-annotation",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "http://127.0.0.1:8182/iiif/2/IMG_8141 copy cropped.jpeg",
+									"@id": "http://iiif.archivelab.org/iiif/IMG8141CopyCropped",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json",
 										{
@@ -838,3 +838,4 @@
 	],
 	"structures": []
 }
+
